@@ -1,0 +1,15 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\bin\Debug\net6.0\ListExampleProyect.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\bin\Debug\net6.0\ListExampleProyect.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\bin\Debug\net6.0\ListExampleProyect.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\bin\Debug\net6.0\ListExampleProyect.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\bin\Debug\net6.0\ListExampleProyect.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\ListExampleProyect.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\ListExampleProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\ListExampleProyect.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\ListExampleProyect.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\ListExampleProyect.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\ListExampleProyect.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\refint\ListExampleProyect.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\ListExampleProyect.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\ListExampleProyect.genruntimeconfig.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ListExampleProyect\ListExampleProyect\obj\Debug\net6.0\ref\ListExampleProyect.dll

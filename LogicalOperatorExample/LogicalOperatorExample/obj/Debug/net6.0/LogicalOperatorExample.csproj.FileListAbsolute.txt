@@ -1,0 +1,15 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\refint\LogicalOperatorExample.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.genruntimeconfig.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\ref\LogicalOperatorExample.dll

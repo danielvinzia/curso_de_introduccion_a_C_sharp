@@ -1,0 +1,14 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\bin\Debug\netcoreapp3.1\ArraysProgram.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\bin\Debug\netcoreapp3.1\ArraysProgram.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\bin\Debug\netcoreapp3.1\ArraysProgram.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\bin\Debug\netcoreapp3.1\ArraysProgram.runtimeconfig.dev.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\bin\Debug\netcoreapp3.1\ArraysProgram.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\bin\Debug\netcoreapp3.1\ArraysProgram.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\obj\Debug\netcoreapp3.1\ArraysProgram.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\obj\Debug\netcoreapp3.1\ArraysProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\obj\Debug\netcoreapp3.1\ArraysProgram.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\obj\Debug\netcoreapp3.1\ArraysProgram.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\obj\Debug\netcoreapp3.1\ArraysProgram.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\obj\Debug\netcoreapp3.1\ArraysProgram.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\obj\Debug\netcoreapp3.1\ArraysProgram.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArraysProgram\ArraysProgram\obj\Debug\netcoreapp3.1\ArraysProgram.genruntimeconfig.cache

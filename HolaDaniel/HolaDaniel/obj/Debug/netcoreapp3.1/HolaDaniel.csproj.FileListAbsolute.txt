@@ -1,0 +1,14 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\bin\Debug\netcoreapp3.1\HolaDaniel.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\bin\Debug\netcoreapp3.1\HolaDaniel.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\bin\Debug\netcoreapp3.1\HolaDaniel.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\bin\Debug\netcoreapp3.1\HolaDaniel.runtimeconfig.dev.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\bin\Debug\netcoreapp3.1\HolaDaniel.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\bin\Debug\netcoreapp3.1\HolaDaniel.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\obj\Debug\netcoreapp3.1\HolaDaniel.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\obj\Debug\netcoreapp3.1\HolaDaniel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\obj\Debug\netcoreapp3.1\HolaDaniel.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\obj\Debug\netcoreapp3.1\HolaDaniel.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\obj\Debug\netcoreapp3.1\HolaDaniel.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\obj\Debug\netcoreapp3.1\HolaDaniel.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\obj\Debug\netcoreapp3.1\HolaDaniel.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\HolaDaniel\HolaDaniel\obj\Debug\netcoreapp3.1\HolaDaniel.genruntimeconfig.cache

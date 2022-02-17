@@ -1,0 +1,14 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\bin\Debug\netcoreapp3.1\stringExample.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\bin\Debug\netcoreapp3.1\stringExample.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\bin\Debug\netcoreapp3.1\stringExample.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\bin\Debug\netcoreapp3.1\stringExample.runtimeconfig.dev.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\bin\Debug\netcoreapp3.1\stringExample.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\bin\Debug\netcoreapp3.1\stringExample.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\obj\Debug\netcoreapp3.1\stringExample.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\obj\Debug\netcoreapp3.1\stringExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\obj\Debug\netcoreapp3.1\stringExample.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\obj\Debug\netcoreapp3.1\stringExample.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\obj\Debug\netcoreapp3.1\stringExample.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\obj\Debug\netcoreapp3.1\stringExample.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\obj\Debug\netcoreapp3.1\stringExample.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\stringExample\stringExample\obj\Debug\netcoreapp3.1\stringExample.genruntimeconfig.cache

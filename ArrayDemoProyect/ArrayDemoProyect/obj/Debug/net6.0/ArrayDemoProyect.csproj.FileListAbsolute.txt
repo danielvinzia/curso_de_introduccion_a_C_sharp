@@ -1,0 +1,15 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\bin\Debug\net6.0\ArrayDemoProyect.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\bin\Debug\net6.0\ArrayDemoProyect.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\bin\Debug\net6.0\ArrayDemoProyect.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\bin\Debug\net6.0\ArrayDemoProyect.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\bin\Debug\net6.0\ArrayDemoProyect.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\ArrayDemoProyect.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\ArrayDemoProyect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\ArrayDemoProyect.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\ArrayDemoProyect.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\ArrayDemoProyect.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\ArrayDemoProyect.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\refint\ArrayDemoProyect.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\ArrayDemoProyect.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\ArrayDemoProyect.genruntimeconfig.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ArrayDemoProyect\ArrayDemoProyect\obj\Debug\net6.0\ref\ArrayDemoProyect.dll

@@ -1,0 +1,14 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.runtimeconfig.dev.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\bin\Debug\netcoreapp3.1\MyMethods.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\MyMethods\MyMethods\obj\Debug\netcoreapp3.1\MyMethods.genruntimeconfig.cache

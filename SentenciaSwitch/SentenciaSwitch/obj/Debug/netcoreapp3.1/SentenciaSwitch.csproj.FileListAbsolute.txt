@@ -1,0 +1,14 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.runtimeconfig.dev.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\bin\Debug\netcoreapp3.1\SentenciaSwitch.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\SentenciaSwitch\SentenciaSwitch\obj\Debug\netcoreapp3.1\SentenciaSwitch.genruntimeconfig.cache

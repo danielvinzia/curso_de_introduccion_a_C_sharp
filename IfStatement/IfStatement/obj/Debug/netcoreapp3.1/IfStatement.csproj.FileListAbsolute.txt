@@ -1,0 +1,14 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.dev.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.genruntimeconfig.cache

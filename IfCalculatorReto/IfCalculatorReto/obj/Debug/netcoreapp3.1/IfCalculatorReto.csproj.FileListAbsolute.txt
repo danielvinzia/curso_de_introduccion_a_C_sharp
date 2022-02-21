@@ -1,0 +1,14 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\bin\Debug\netcoreapp3.1\IfCalculatorReto.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\bin\Debug\netcoreapp3.1\IfCalculatorReto.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\bin\Debug\netcoreapp3.1\IfCalculatorReto.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\bin\Debug\netcoreapp3.1\IfCalculatorReto.runtimeconfig.dev.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\bin\Debug\netcoreapp3.1\IfCalculatorReto.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\bin\Debug\netcoreapp3.1\IfCalculatorReto.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\obj\Debug\netcoreapp3.1\IfCalculatorReto.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\obj\Debug\netcoreapp3.1\IfCalculatorReto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\obj\Debug\netcoreapp3.1\IfCalculatorReto.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\obj\Debug\netcoreapp3.1\IfCalculatorReto.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\obj\Debug\netcoreapp3.1\IfCalculatorReto.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\obj\Debug\netcoreapp3.1\IfCalculatorReto.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\obj\Debug\netcoreapp3.1\IfCalculatorReto.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\IfCalculatorReto\IfCalculatorReto\obj\Debug\netcoreapp3.1\IfCalculatorReto.genruntimeconfig.cache

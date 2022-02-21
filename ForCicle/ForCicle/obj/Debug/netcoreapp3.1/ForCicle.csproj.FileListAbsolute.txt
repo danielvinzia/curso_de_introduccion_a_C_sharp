@@ -1,0 +1,14 @@
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\bin\Debug\netcoreapp3.1\ForCicle.exe
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\bin\Debug\netcoreapp3.1\ForCicle.deps.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\bin\Debug\netcoreapp3.1\ForCicle.runtimeconfig.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\bin\Debug\netcoreapp3.1\ForCicle.runtimeconfig.dev.json
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\bin\Debug\netcoreapp3.1\ForCicle.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\bin\Debug\netcoreapp3.1\ForCicle.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\obj\Debug\netcoreapp3.1\ForCicle.csproj.AssemblyReference.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\obj\Debug\netcoreapp3.1\ForCicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\obj\Debug\netcoreapp3.1\ForCicle.AssemblyInfoInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\obj\Debug\netcoreapp3.1\ForCicle.AssemblyInfo.cs
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\obj\Debug\netcoreapp3.1\ForCicle.csproj.CoreCompileInputs.cache
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\obj\Debug\netcoreapp3.1\ForCicle.dll
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\obj\Debug\netcoreapp3.1\ForCicle.pdb
+C:\Users\danie\curso_de_introduccion_a_C_sharp\ForCicle\ForCicle\obj\Debug\netcoreapp3.1\ForCicle.genruntimeconfig.cache
